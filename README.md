@@ -1,7 +1,7 @@
 # 😊 **__WELCOME TO MY GITHUB'S PAGE__** 😎
 
 😏 I’m currently working on <a href="https://github.com/amoreira2003/CharacterSheet">**Character Sheet**</a> <br>
-😍 I’m intending to learn <a href ="https://www.apple.com/br/swift/Swift"> **Swift** </a><br>
+😍 I’m intending to learn <a href ="https://www.apple.com/br/swift/"> **Swift** </a> and <a href ="https://reactnative.dev"> **React Native** </a> <br>
 😄 Pronouns ➜ **He/Him**<br>
 🏴 🇧🇷 I'm from Brazil 🇧🇷 <br>
 😋 Fun fact ➜ **I love greek mythology**<br>
