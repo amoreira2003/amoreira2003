@@ -1,6 +1,6 @@
 # 😊 **__WELCOME TO MY GITHUB'S PAGE__** 😎
 
-😏 I’m currently working on ... <br>
+😏 I’m currently working on <a href="https://github.com/amoreira2003/CharacterSheet">Character Sheet</a> <br>
 😍 I’m willing to learn <a href ="https://www.apple.com/br/swift/Swift"> Swift </a><br>
 😄 Pronouns: He/Him<br>
 😋 Fun fact: I love greek mithology<br>
@@ -17,7 +17,7 @@
 </a>
 </div>
 
-## Languages
+## 📚 LANGUAGES 📚
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +28,7 @@
    <img align="center" alt="NodeJs" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 </div>
 
-## Apps
+## 😉 APPS 😉
 <div style="display: inline_block"><br>
   <img align="center" alt="premiere" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
   <img align="center" alt="after" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
