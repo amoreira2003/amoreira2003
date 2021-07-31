@@ -5,8 +5,8 @@
 😄 Pronouns: He/Him<br>
 😋 Fun fact: I love greek mithology<br>
 <br>
-<img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="mailto:moreiracacanada@gmail.com">
-<img src ="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" href="https://twitter.com/alex_moreira115">
+ <a href="mailto:moreiracacanada@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://twitter.com/alex_moreira115" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 <div style="display: inline_block">
 <a href="https://github.com/amoreira2003">
