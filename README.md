@@ -8,7 +8,6 @@
 <br>
  <a href="mailto:moreiracacanada@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/alex_moreira115" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<br>
 <div style="display: inline_block">
 <a href="https://github.com/amoreira2003">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=amoreira2003&count_private=true&theme=tokyonight&show_icons=true" />
