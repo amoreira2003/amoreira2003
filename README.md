@@ -1,6 +1,7 @@
 # 😊 **__WELCOME TO MY GITHUB'S PAGE__** 😎
 
 😏 I’m currently working on <a href="https://github.com/amoreira2003/CharacterSheet">**Character Sheet**</a> <br>
+👨‍💻 I’m learning <a href ="https://reactjs.org"> **React** </a> <br>
 😍 I’m intending to learn <a href ="https://www.apple.com/br/swift/"> **Swift** </a> and <a href ="https://reactnative.dev"> **React Native** </a> <br>
 😄 Pronouns ➜ **He/Him**<br>
 🏴 🇧🇷 I'm from Brazil 🇧🇷 <br>
@@ -27,6 +28,7 @@
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="NodeJs" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+ <img align="center" alt="React" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  <img align="center" alt="Bukkit" height="60" width="80" src="https://getbukkit.org/assets/img/getbukkit.svg">
   <img align="center" alt="Forge" height="60" width="80" src="https://files.minecraftforge.net/static/images/logo.svg">
  
