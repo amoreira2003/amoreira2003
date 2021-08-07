@@ -26,7 +26,13 @@
   <img align="center" alt="Java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-   <img align="center" alt="NodeJs" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="NodeJs" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+ <img align="center" alt="Bukkit" height="60" width="80" src="https://getbukkit.org/assets/img/getbukkit.svg">
+  <img align="center" alt="Forge" height="60" width="80" src="https://files.minecraftforge.net/static/images/logo.svg">
+ 
+
+ 
+
 </div>
 
 ## 😉 APPS 😉
