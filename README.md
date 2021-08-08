@@ -25,19 +25,18 @@
   <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="NodeJs" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
- <img align="center" alt="Bukkit" height="60" width="80" src="https://getbukkit.org/assets/img/getbukkit.svg">
- <img align="center" alt="Forge" height="60" width="80" src="https://files.minecraftforge.net/static/images/logo.svg">
- <img align="center" alt="MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Bukkit" height="60" width="80" src="https://getbukkit.org/assets/img/getbukkit.svg">
+  <img align="center" alt="Forge" height="60" width="80" src="https://files.minecraftforge.net/static/images/logo.svg">
+  <img align="center" alt="MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 <br>
 
 ## 👨‍🎓 LEARNING 👨‍🎓
 <div style="display: inline_block">
 <img align="center" alt="React" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
- 
+<img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ## 😉 APPS 😉
