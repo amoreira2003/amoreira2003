@@ -21,7 +21,7 @@
 
 ## 📚 SKILLS 📚
 <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img  href="https://www.javascript.com" align="center" alt="Js" height="60" width="8   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
