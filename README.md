@@ -4,6 +4,7 @@
 👨‍💻 I’m learning <a href ="https://reactjs.org"> **React** </a> and <a href ="https://www.python.org"> **Python** </a>  <br>
 😍 I’m intending to learn <a href ="https://www.apple.com/br/swift/"> **Swift** </a> and <a href ="https://reactnative.dev"> **React Native** </a> <br>
 😄 Pronouns ➜ **He/Him**<br>
+🥳 I'm ***17*** years old <br>
 🏴 🇧🇷 I'm from Brazil 🇧🇷 <br>
 😋 Fun fact ➜ **I love greek mythology**<br>
 🍃 LeafStudios ➜ CEO 🍃<br>
