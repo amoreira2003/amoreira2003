@@ -3,14 +3,21 @@
 😏 I’m currently working on <a href="https://github.com/amoreira2003/CharacterSheet">**Character Sheet**</a> <br>
 👨‍💻 I’m learning <a href ="https://reactjs.org"> **React** </a> and <a href ="https://www.python.org"> **Python** </a>  <br>
 😍 I’m intending to learn <a href ="https://www.apple.com/br/swift/"> **Swift** </a> and <a href ="https://reactnative.dev"> **React Native** </a> <br>
-😄 Pronouns ➜ **He/Him**<br>
+😄 Pronouns ➜ **He/Him**<br> 
 🥳 I'm ***17*** years old <br>
 🏴 🇧🇷 I'm from Brazil 🇧🇷 <br>
 😋 Fun fact ➜ **I love greek mythology**<br>
-🍃 LeafStudios ➜ CEO 🍃<br>
+🍃 LeafStudios ➜ CEO 🍃<br> 
 <br>
  <a href="mailto:moreiracacanada@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/alex_moreira115" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href="https://discord.com/users/617851891803619354" target="_blank"><img src="https://img.shields.io/badge/-Discord-blueviolet?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+
+  <div align="center"><br>
+   
+ ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=re734yfdsfa6a4bz06b15qony&cover_image=true&theme=novatorem)
+   
+  </div>
 <div align="left" style="display: inline_flex">
 <a href="https://github.com/amoreira2003">
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=amoreira2003&count_private=true&theme=tokyonight&show_icons=true" />
@@ -18,11 +25,6 @@
 <a href="https://github.com/amoreira2003">
   <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoreira2003&layout=compact&count_private=true&theme=tokyonight&hide=asp.net,shaderlab,hlsl"/>
  <br>
-  <div align="center"><br>
-   
- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=re734yfdsfa6a4bz06b15qony&cover_image=true&theme=novatorem)
-   
-  </div>
 </a>
 </div>
 
