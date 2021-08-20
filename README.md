@@ -54,7 +54,7 @@
   <img align="center" alt="after" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="vs" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="vscode" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="photshop" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
+  <img align="center" alt="photshop" height="60" width="80" src="https://github.com/amoreira2003/amoreira2003/blob/main/photoshop.svg">
   <img align="center" alt="intellij" height="60" width="80" src="https://github.com/amoreira2003/amoreira2003/blob/main/idea.svg">
    <img align="center" alt="unity" height="60" width="80" src="https://github.com/amoreira2003/amoreira2003/blob/main/unity.svg">
 </div>
