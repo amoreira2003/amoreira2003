@@ -18,7 +18,7 @@
 <a href="https://github.com/amoreira2003">
   <img  height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoreira2003&layout=compact&count_private=true&theme=tokyonight&hide=asp.net,shaderlab,hlsl"/>
  <br>
-  <div align="center">
+  <div align="center"><br>
    
  ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=re734yfdsfa6a4bz06b15qony&cover_image=true&theme=novatorem)
    
