@@ -13,7 +13,7 @@
 
   <div align="center"><br>
    
- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=re734yfdsfa6a4bz06b15qony&cover_image=true&theme=novatorem)
+ ![](https://spotify-github-profile.vercel.app/api/view?uid=re734yfdsfa6a4bz06b15qony&cover_image=true&theme=novatorem)
    
   </div>
 <div align="left" style="display: inline_flex">
