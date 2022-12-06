@@ -3,7 +3,7 @@
 😏 I’m currently working on <a href="https://pa1.narvii.com/6555/3d7352a0eee1274120feb94a4101969779dd2f37_hq.gif"  target="_blank" >**Spacy**</a> <br>
 👨‍💻 I’m learning <a href ="https://reactjs.org"> **React Native** </a> <br>
 😍 I’m intending to learn <a href ="https://www.apple.com/br/swift/"> **Swift** </a> and <a href ="https://reactnative.dev"> **React Native** </a> <br>
-🥳 I'm ***18*** years old <br>
+🥳 I'm ***19*** years old <br>
 🏴 🇧🇷 I'm from Brazil 🇧🇷 <br>
 😋 Fun fact ➜ **I love greek mythology**<br>
 <br>
