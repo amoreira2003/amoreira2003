@@ -5,7 +5,6 @@
 😍 I’m intending to learn <a href ="https://www.apple.com/br/swift/"> **Swift** </a> and <a href ="https://reactnative.dev"> **React Native** </a> <br>
 🥳 I'm ***19*** years old <br>
 🏴 🇧🇷 I'm from Brazil 🇧🇷 <br>
-😋 Fun fact ➜ **I love greek mythology**<br>
 <br>
  <a href="mailto:moreiracacanada@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/alxsmooth" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
