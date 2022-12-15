@@ -1,10 +1,8 @@
 # 😊 **__WELCOME TO MY GITHUB'S PAGE__** 😎
 
 😏 I’m currently working on <a href="https://pa1.narvii.com/6555/3d7352a0eee1274120feb94a4101969779dd2f37_hq.gif"  target="_blank" >**Spacy**</a> <br>
-👨‍💻 I’m learning <a href ="https://reactnative.dev"> **React Native** </a>, <a href ="https://www.apple.com/br/swift/"> **Swift** </a> <br>
-😍 I’m intending to learn <a href ="https://flutter.dev"> **Flutter** </a> <br>
-🥳 I'm ***19*** years old <br>
-🏴 🇧🇷 I'm from Brazil 🇧🇷 <br>
+👨‍💻 I’m learning <a href ="https://reactnative.dev"> **React Native** </a>, <a href ="https://flutter.dev"> **Flutter** </a> <br>
+😍 I’m intending to learn  <a href ="https://www.apple.com/br/swift/"> **Swift** </a> <br>
 <br>
  <a href="mailto:moreiracacanada@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://twitter.com/alxsmooth" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
