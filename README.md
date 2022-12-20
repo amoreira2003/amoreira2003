@@ -1,7 +1,7 @@
 # 😊 **__WELCOME TO MY PAGE__** 😎
 
 😏 I’m currently working on <a href="https://pa1.narvii.com/6555/3d7352a0eee1274120feb94a4101969779dd2f37_hq.gif"  target="_blank" >**Spacy**</a> <br>
-👨‍💻 I’m learning <a href ="https://reactnative.dev"> **React Native** </a>, <a href ="https://flutter.dev"> **Flutter** </a> <br>
+👨‍💻 I’m learning <a href ="https://reactnative.dev">**React Native**</a>, <a href ="https://flutter.dev"> **Flutter** </a> <br>
 😍 I’m intending to learn  <a href ="https://www.apple.com/br/swift/"> **Swift** </a> <br>
 <br>
  <a href="mailto:moreiracacanada@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
