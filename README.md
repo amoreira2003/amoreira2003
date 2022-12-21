@@ -11,17 +11,6 @@
   <div align="center"><br>
    
  ![](https://spotify-github-profile.vercel.app/api/view?uid=re734yfdsfa6a4bz06b15qony&cover_image=true&theme=novatorem)
-   
-  </div>
-<div align="left" style="display: inline_flex">
-<a href="https://github.com/amoreira2003">
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=amoreira2003&count_private=true&theme=tokyonight&show_icons=true" />
-</a>
-<a href="https://github.com/amoreira2003">
-  <img  height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoreira2003&layout=compact&count_private=true&theme=tokyonight&hide=asp.net,shaderlab,hlsl"/>
- <br>
-</a>
-</div>
 
 ## 📚 SKILLS 📚
 <div style="display: inline_block"><br>
