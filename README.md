@@ -1,3 +1,5 @@
+ <div align="center">
+ 
 # 😊 **__WELCOME TO MY PAGE__** 😎
 
 😏 I’m currently working on <a href="https://pa1.narvii.com/6555/3d7352a0eee1274120feb94a4101969779dd2f37_hq.gif"  target="_blank" >**Spacy**</a> <br>
@@ -8,7 +10,7 @@
 <a href="https://twitter.com/alxsmooth" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://discord.com/users/617851891803619354" target="_blank"><img src="https://img.shields.io/badge/-Discord-blue?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
-  <div align="center"><br>
+ <br>
    
  ![](https://spotify-github-profile.vercel.app/api/view?uid=re734yfdsfa6a4bz06b15qony&cover_image=true&theme=novatorem)
 
