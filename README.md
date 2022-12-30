@@ -27,6 +27,8 @@
   <img align="center" alt="MySQL" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="React" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="Python" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Flutter" height="60" width="80" src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg">
+ 
 </div>
 <br>
 
