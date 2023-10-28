@@ -1,0 +1,177 @@
+{
+    "displayName": "Sofia Ramirez",
+    "origin": "Ginecologista/Obstetra",
+    "status": {
+        "currentHealth": 15,
+        "maxHealth": 15,
+        "currentFadigue": 6,
+        "maxFadigue": 6
+    },
+    "attributes": {
+        "vigor": {
+            "displayName":"Vigor",
+            "shortName": "VIG",
+            "value": 1,
+            "skills": {
+                "emotionalResistance": {
+                    "bonus": 5,
+                    "displayName": "Resistência Emocional",
+                    "description": "Lidar com estresse e trauma."
+                },  
+                "intensiveCare": {
+                    "bonus": 0,
+                    "displayName": "Cuidado Intensivo",
+                    "description": "Habilidade de trabalhar em ambientes de alta demanda como UTIs."
+                },
+                "immunity": {
+                    "bonus": 0,
+                    "displayName": "Imunidade",
+                    "description": "Resistir a infecções/doenças."
+                }
+            }
+        },
+        "intelligence": {
+            "displayName":"Inteligência",
+            "shortName": "INT",
+            "value": 1,
+            "skills": {
+                "medicEquipment": {
+                    "bonus": 5,
+                    "displayName": "Equipamento Hospitalar",
+                    "description": "Utilizar equipamentos hospitalares"
+                },  
+                "investigate": {
+                    "bonus": 0,
+                    "displayName": "Investigação",
+                    "description": "Procura metódica e conscientemente descobrir algo, através de exame e observação minuciosos"
+                }
+            }
+        },
+        "strength": {
+            "displayName":"Força",
+            "shortName": "FOR",
+            "value": 3,
+            "skills": {
+                "stabilizeWounds": {
+                    "bonus": 5,
+                    "displayName": "Estabilizar Ferimentos",
+                    "description": "Aplicação de pressão e imobilização"
+                },  
+                "heavyEquipment": {
+                    "bonus": 0,
+                    "displayName": "Equipamentos Pesados",
+                    "description": "Manuseio de equipamentos pesados."
+                },
+                "heavyImpact": {
+                    "bonus": 5,
+                    "displayName": "Alto Impacto",
+                    "description": "Procedimentos que exigem força física."
+                },
+                "fight": {
+                    "bonus": 0,
+                    "displayName": "Luta/Briga",
+                    "description": "Domínio das artes marciais e/ou briga de rua."
+                },
+                "maneuverHeimlich": {
+                    "bonus": 0,
+                    "displayName": "Manobra de Heimlich",
+                    "description": "Procedimento rápido de primeiros socorros para tratar asfixia por obstrução das vias respiratórias superiores por corpo estranho"
+                },
+                "contain": {
+                    "bonus": 12,
+                    "displayName": "Contenção",
+                    "description": "Habilidade de conter pacientes que possam estar agitados ou representar uma ameaça física."
+                },
+                "patientHandling": {
+                    "bonus": 12,
+                    "displayName": "Manusear Pacientes",
+                    "description": "Mover ou levantar pacientes em emergências."
+                },
+                "CPR": {
+                    "bonus": 0,
+                    "displayName": "Primeiros Socorros(CPR)",
+                    "description": "Prestar auxílio médico inicial. (Reanimação Cardiopulmonar)"
+                },
+                "chiropractic": {
+                    "bonus": 0,
+                    "displayName": "Quiropraxia",
+                    "description": "Profissão na área de saúde que se dedica ao diagnóstico, tratamento e prevenção de problemas do sistema neuro-músculo-esquelético, ou seja, que envolvem as articulações, músculos, tendões, ossos, nervos e outras estruturas responsáveis pelo movimento do corpo"
+                }}
+        },
+        "agility": {
+            "displayName":"Agilidade",
+            "shortName": "AGI",
+            "value": 3,
+            "skills": {
+                "injectMeds": {
+                    "bonus": 5,
+                    "displayName": "Injetar Medicamentos",
+                    "description": "Aplicação de injeções com precisão."
+                },  
+                "firstAid": {
+                    "bonus": 5,
+                    "displayName": "Primeiros Socorros",
+                    "description": "Prestar auxílio médico inicial. Exceto CPR"
+                },
+                "reflex": {
+                    "bonus": 5,
+                    "displayName": "Reflexo",
+                    "description": "Evitar situações físicas perigosas, como objetos em queda."
+                },
+                "surgery": {
+                    "bonus": 5,
+                    "displayName": "Cirurgia",
+                    "description": "Procedimentos que requerem destreza."
+                },
+                "escape": {
+                    "bonus": 0,
+                    "displayName": "Manobras de Evacuação",
+                    "description": "Reação rápida a situações de emergência indicadas por sistemas de alerta."
+                }
+            }
+        },
+        "presence": {
+            "displayName":"Presença",
+            "shortName": "PRE",
+            "value": 1,
+            "skills": {
+                "intimidate": {
+                    "bonus": 0,
+                    "displayName": "Intimidar",
+                    "description": "Você pode assustar ou coagir outras pessoas. Todos os usos de Intimidação são efeitos de medo."
+                },  
+                "animalTraining": {
+                    "bonus": 0,
+                    "displayName": "Adestramento",
+                    "description": "Adestramento de animais é uma aplicação da análise do comportamento que usa os eventos do ambiente e suas consequências para modificar o comportamento do animal"
+                },
+                "intuition": {
+                    "bonus": 5,
+                    "displayName": "Intuição",
+                    "description": "O que tua intuição te diz? Pois é..."
+                },
+                "diplomacy": {
+                    "bonus": 0,
+                    "displayName": "Diplomacia",
+                    "description": "Você convence pessoas com lábia e argumentação."
+                },
+                "empatia": {
+                    "bonus": 0,
+                    "displayName": "Empatia",
+                    "description": "Bem, empatia é algo... Você sabe o que é empatia, certo?"
+                },
+                "spokenLanguage": {
+                    "bonus": 5,
+                    "displayName": "Oratória",
+                    "description": "Arte de falar em público de forma estruturada e deliberada"
+                },
+                "negotiation": {
+                    "bonus": 0,
+                    "displayName": "Negociação",
+                    "description": "Ei, você já ouviu falar da nova perícia de Negociação? É incrível como ela nos permite usar a arte da comunicação para lidar com autoridades e corrigir recursos em prol da nossa causa. Adquira ela agora por R$9.99 (Não incluso impostos). Obrigado ChatGPT"
+                }
+                
+            }
+        }
+    }
+}
